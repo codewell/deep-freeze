@@ -1,0 +1,28 @@
+{
+  "name": "@codewell/deep-freeze",
+  "version": "1.0.0",
+  "description": "Freeze JS objects deep",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/deep-freeze.git"
+  },
+  "keywords": [
+    "deep",
+    "freeze",
+    "objects",
+    "javascript"
+  ],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/deep-freeze/issues"
+  },
+  "homepage": "https://github.com/codewell/deep-freeze#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
